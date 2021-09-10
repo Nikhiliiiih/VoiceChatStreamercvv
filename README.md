@@ -65,14 +65,11 @@ _Note: This bot does not leaving from vc after song or video ended. And this is 
 
 
 ## 📌 Credits
-- [MarshalX](https://github.com/MarshalX/tgcalls) for Pytgcalls
-- [SpEcHiDe](https://github.com/SpEcHiDe) for Multi VCs support
-- [Me](https://github.com/AnjanaMadu) for this Project 🤪
-
+- Nikhil
 ## 📌 License
 ```
 VoiceChatStreamer, An Telegram Bot Project
-Copyright (c) 2021 Anjana Madu <https://github.com/AnjanaMadu>
+Copyright (c) 2021 
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
